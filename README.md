@@ -1,5 +1,8 @@
 #  Data Professional Survey Analysis using Power BI
 
+![Screenshot 2025-01-16 190857](https://github.com/user-attachments/assets/5c1a6ab7-9104-48ac-98e2-25a0123cb404)
+
+
 ## Objective
 The primary objective of this project is to analyze survey data from data professionals to gain insights into
 industry trends, including job titles, salaries, work-life balance, preferred programming languages, and geographical distribution of respondents. 
